@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ODE/GolfBall3.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ODE/Golf2.cs" Line="25" Column="3" />
+      <File FileName="Assets/Scripts/Collosions.cs" Line="52" Column="2" />
+      <File FileName="Assets/Scripts/UIController.cs" Line="56" Column="2" />
+      <File FileName="Assets/Scripts/ODE/GolfBall3.cs" Line="122" Column="20" />
+      <File FileName="Assets/Scripts/ODE/SimpleProjectile.cs" Line="42" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
